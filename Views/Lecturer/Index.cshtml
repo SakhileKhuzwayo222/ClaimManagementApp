@@ -1,0 +1,74 @@
+﻿@model ClaimManagementApp.Models.Lecturer
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>Lecturer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HourlyRate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HourlyRate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FacultyID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FacultyID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HoursWorked)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoursWorked)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Notes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Notes)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LecturerID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
