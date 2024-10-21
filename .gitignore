@@ -1,0 +1,6 @@
+# Ignore NuGet packages folder
+packages/
+
+# Ignore Visual Studio folder
+.vs/
+
