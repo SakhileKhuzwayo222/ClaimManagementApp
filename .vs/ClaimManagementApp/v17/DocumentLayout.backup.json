@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\lecturer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|c:\\users\\admin user\\source\\repos\\claimmanagementapp\\views\\lecturer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\lecturer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|c:\\users\\admin user\\source\\repos\\claimmanagementapp\\views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -227,7 +227,7 @@
               "RelativeDocumentMoniker": "Views\\Lecturer\\Create.cshtml",
               "ToolTip": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Lecturer\\Create.cshtml",
               "RelativeToolTip": "Views\\Lecturer\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-20T15:08:27.394Z",
               "EditorCaption": ""
@@ -242,8 +242,7 @@
               "RelativeToolTip": "Views\\Lecturer\\SubmitClaim.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-20T15:09:31.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T15:09:31.222Z"
             },
             {
               "$type": "Document",

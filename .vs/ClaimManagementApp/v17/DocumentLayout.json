@@ -3,207 +3,207 @@
   "WorkspaceRootPath": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|c:\\users\\admin user\\source\\repos\\claimmanagementapp\\views\\lecturer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\lecturer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Lecturer\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Lecturer\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\lecturer\\submitclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Lecturer\\SubmitClaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Lecturer\\SubmitClaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Lecturer\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Lecturer\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\lecturer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\lecturer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Lecturer\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Lecturer\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\claim\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\claim\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Claim\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Claim\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:viewmodels\\claimviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\ViewModels\\ClaimViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\ClaimViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\ViewModels\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\ViewModels\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModels\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\NotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\NotificationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Document\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Document\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\document\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\document\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Document\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Document\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\document\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\document\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Document\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Document\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\document\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\document\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Document\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Document\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Claim\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Claim\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\claim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\claim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\claim\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\claim\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Claim\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Claim\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Account\\Logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\App_Start\\FilterConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App_Start\\FilterConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\ApprovalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ApprovalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\programcoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\programcoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\ProgramCoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\ProgramCoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\coordinatormanagerassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\coordinatormanagerassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\CoordinatorManagerAssignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\CoordinatorManagerAssignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\academicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\academicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\AcademicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AcademicManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\RoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\RoleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\DocumentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\DocumentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\FacultyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\FacultyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\ClaimController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ClaimController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\LecturerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\LecturerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1378835-6B26-4661-A5B4-CB65C07CB474}|..\\ClaimManagementApp.Tests\\ClaimManagementApp.Tests.csproj|c:\\users\\admin user\\source\\repos\\claimmanagementapp.tests\\controllers\\homecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Home\\Index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\home\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\home\\index.cshtml||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp.Tests\\Controllers\\HomeControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{736EF4D1-E234-42D1-A77E-F8E97FFC7F84}|ClaimManagementApp.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Home\\Contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -227,7 +227,7 @@
               "RelativeDocumentMoniker": "Views\\Lecturer\\Create.cshtml",
               "ToolTip": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Lecturer\\Create.cshtml",
               "RelativeToolTip": "Views\\Lecturer\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-20T15:08:27.394Z",
               "EditorCaption": ""
@@ -354,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -366,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -402,24 +402,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Notification.cs*",
-              "RelativeToolTip": "Models\\Notification.cs*",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T15:57:18.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
-              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\NotificationController.cs*",
-              "RelativeToolTip": "Controllers\\NotificationController.cs*",
+              "ToolTip": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAF4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T11:11:03.424Z"
@@ -486,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Claim\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Claim\\Index.cshtml",
@@ -498,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Document.cs",
               "RelativeDocumentMoniker": "Models\\Document.cs",
@@ -578,8 +578,7 @@
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-20T15:40:20.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T15:40:20.751Z"
             },
             {
               "$type": "Document",
@@ -595,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "Report.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Report.cs",
               "RelativeDocumentMoniker": "Models\\Report.cs",
@@ -619,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Faculty.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Faculty.cs",
               "RelativeDocumentMoniker": "Models\\Faculty.cs",
@@ -655,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
@@ -667,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Approval.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\Approval.cs",
               "RelativeDocumentMoniker": "Models\\Approval.cs",
@@ -679,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "AcademicManager.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Models\\AcademicManager.cs",
               "RelativeDocumentMoniker": "Models\\AcademicManager.cs",
@@ -787,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -811,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "HomeControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\Admin user\\source\\repos\\ClaimManagementApp.Tests\\Controllers\\HomeControllerTest.cs",
               "RelativeDocumentMoniker": "..\\ClaimManagementApp.Tests\\Controllers\\HomeControllerTest.cs",
