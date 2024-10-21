@@ -6,7 +6,7 @@
     <section class="row" aria-labelledby="appTitle">
         <h1 id="title">Welcome to Claim Management App</h1>
         <p class="lead">Manage your claims efficiently with our intuitive platform.</p>
-        <p><a href="@Url.Action("Login", "Account")" class="btn btn-primary btn-md">Get Started &raquo;</a></p>
+        <p><a href="@Url.Action("Login", "AccountController")" class="btn btn-primary btn-md">Get Started &raquo;</a></p>
     </section>
 
     <div class="row">
@@ -15,12 +15,12 @@
             <p>
                 To begin, create an account and log in to submit your claims and track their status.
             </p>
-            <p><a class="btn btn-outline-dark" href="@Url.Action("Register", "Account")">Create an Account &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("Register", "AccountController")">Create an Account &raquo;</a></p>
         </section>
         <section class="col-md-4" aria-labelledby="featuresTitle">
             <h2 id="featuresTitle">Features</h2>
             <p>Explore various features such as claim submission, tracking, and management tools.</p>
-            <p><a class="btn btn-outline-dark" href="@Url.Action("Index", "Dashboard")">View Features &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("Index", "DashboardController")">View Features &raquo;</a></p>
         </section>
         <section class="col-md-4" aria-labelledby="supportTitle">
             <h2 id="supportTitle">Support</h2>
