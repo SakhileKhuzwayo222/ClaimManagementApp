@@ -7,5 +7,6 @@ namespace ClaimManagementApp
 {
     public class LoginViewModel
     {
+        public string Username { get; internal set; }
     }
 }

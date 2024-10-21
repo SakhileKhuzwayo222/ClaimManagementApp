@@ -1,33 +1,31 @@
 ﻿@{
-    ViewBag.Title = "Home Page";
+    ViewBag.Title = "Welcome to Claim Management App";
 }
 
 <main>
-    <section class="row" aria-labelledby="aspnetTitle">
-        <h1 id="title">ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-        <p><a href="https://asp.net" class="btn btn-primary btn-md">Learn more &raquo;</a></p>
+    <section class="row" aria-labelledby="appTitle">
+        <h1 id="title">Welcome to Claim Management App</h1>
+        <p class="lead">Manage your claims efficiently with our intuitive platform.</p>
+        <p><a href="@Url.Action("Login", "Account")" class="btn btn-primary btn-md">Get Started &raquo;</a></p>
     </section>
 
     <div class="row">
         <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-            <h2 id="gettingStartedTitle">Getting started</h2>
+            <h2 id="gettingStartedTitle">Getting Started</h2>
             <p>
-                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-                enables a clean separation of concerns and gives you full control over markup
-                for enjoyable, agile development.
+                To begin, create an account and log in to submit your claims and track their status.
             </p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("Register", "Account")">Create an Account &raquo;</a></p>
         </section>
-        <section class="col-md-4" aria-labelledby="librariesTitle">
-            <h2 id="librariesTitle">Get more libraries</h2>
-            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <section class="col-md-4" aria-labelledby="featuresTitle">
+            <h2 id="featuresTitle">Features</h2>
+            <p>Explore various features such as claim submission, tracking, and management tools.</p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("Index", "Dashboard")">View Features &raquo;</a></p>
         </section>
-        <section class="col-md-4" aria-labelledby="hostingTitle">
-            <h2 id="hostingTitle">Web Hosting</h2>
-            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-            <p><a class="btn btn-outline-dark" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        <section class="col-md-4" aria-labelledby="supportTitle">
+            <h2 id="supportTitle">Support</h2>
+            <p>If you need assistance, check out our support resources or contact our team.</p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("Support", "Home")">Get Support &raquo;</a></p>
         </section>
     </div>
 </main>

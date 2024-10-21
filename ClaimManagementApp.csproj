@@ -132,6 +132,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ApprovalController.cs" />
     <Compile Include="Controllers\ClaimController.cs" />
+    <Compile Include="Controllers\DashboardController.cs" />
     <Compile Include="Controllers\DocumentController.cs" />
     <Compile Include="Controllers\FacultyController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -141,6 +142,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Dashboard.cs" />
     <Compile Include="ViewModels\ClaimViewModel.cs" />
     <Compile Include="ViewModels\DashboardViewModel.cs" />
     <Compile Include="ViewModels\LoginViewModel.cs" />

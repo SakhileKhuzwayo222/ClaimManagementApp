@@ -45,8 +45,6 @@ namespace ClaimManagementApp.Models
         [Required(ErrorMessage = "Role is required")]
         public string Role { get; set; }
 
-        // Additional information related to the user account
-        public string Notes { get; set; }
     }
 }
 
