@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Claim Management App</title>
+    <!-- Include Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-3nA8vo4DpQPZj4I61kPKvq0d0oD5pZmPgePn5Kfz0mOSlF5/HaQDq2ATw5rojrlY" crossorigin="anonymous">
+    <!-- Include custom CSS files if any -->
+    @Styles.Render("~/Content/css")
+    <!-- Include modernizr for browser compatibility -->
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <div class="container">
+            @Html.ActionLink("Claim Management App", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Claims", "Index", "Claim", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <!-- Add additional links as needed -->
+                    <li class="nav-item">
+                        @Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Claim Management App</p>
+        </footer>
+    </div>
+
+    <!-- Include jQuery and Bootstrap JS -->
+    @Scripts.Render("~/bundles/jquery")
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js" integrity="sha384-vJnWpzWvxjBd/8yzLOt9LYvAl0WLLrA4Gypz/GiV8sGw3A/tHHvQDkDw6OPKfs2l" crossorigin="anonymous"></script>
+    <!-- Include custom scripts if any -->
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
