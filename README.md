@@ -1,4 +1,4 @@
-Apologies for the confusion! Here's a **README** template for your current project, a **Monthly Claims Management System**:
+**Monthly Claims Management System**:
 
 ---
 
