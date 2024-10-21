@@ -2,30 +2,72 @@
     ViewBag.Title = "Welcome to Claim Management App";
 }
 
-<main>
-    <section class="row" aria-labelledby="appTitle">
-        <h1 id="title">Welcome to Claim Management App</h1>
-        <p class="lead">Manage your claims efficiently with our intuitive platform.</p>
-        <p><a href="@Url.Action("Login", "AccountController")" class="btn btn-primary btn-md">Get Started &raquo;</a></p>
+<main class="container mt-5">
+    <section class="text-center mb-5" aria-labelledby="appTitle">
+        <h1 id="title" class="display-4">Welcome to Claim Management App</h1>
+        <p class="lead text-muted">Manage your claims efficiently with our intuitive platform.</p>
+        <p>
+            <a href="@Url.Action("Login", "Account")" class="btn btn-primary btn-lg">Get Started &raquo;</a>
+        </p>
     </section>
 
     <div class="row">
-        <section class="col-md-4" aria-labelledby="gettingStartedTitle">
-            <h2 id="gettingStartedTitle">Getting Started</h2>
-            <p>
-                To begin, create an account and log in to submit your claims and track their status.
-            </p>
-            <p><a class="btn btn-outline-dark" href="@Url.Action("Register", "AccountController")">Create an Account &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="featuresTitle">
-            <h2 id="featuresTitle">Features</h2>
-            <p>Explore various features such as claim submission, tracking, and management tools.</p>
-            <p><a class="btn btn-outline-dark" href="@Url.Action("Index", "DashboardController")">View Features &raquo;</a></p>
-        </section>
-        <section class="col-md-4" aria-labelledby="supportTitle">
-            <h2 id="supportTitle">Support</h2>
-            <p>If you need assistance, check out our support resources or contact our team.</p>
-            <p><a class="btn btn-outline-dark" href="@Url.Action("Support", "Home")">Get Support &raquo;</a></p>
-        </section>
+        <div class="col-md-4 mb-4">
+            <div class="card border-light shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">Getting Started</h2>
+                    <p class="card-text">
+                        To begin, create an account and log in to submit your claims and track their status.
+                    </p>
+                    <p>
+                        <a class="btn btn-outline-primary" href="@Url.Action("Register", "Account")">Create an Account &raquo;</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card border-light shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">Features</h2>
+                    <p class="card-text">
+                        Explore various features such as claim submission, tracking, and management tools.
+                    </p>
+                    <p>
+                        <a class="btn btn-outline-primary" href="@Url.Action("Index", "Dashboard")">View Features &raquo;</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card border-light shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">Support</h2>
+                    <p class="card-text">
+                        If you need assistance, check out our support resources or contact our team.
+                    </p>
+                    <p>
+                        <a class="btn btn-outline-primary" href="@Url.Action("Support", "Home")">Get Support &raquo;</a>
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 </main>
+
+<style>
+    /* Custom styles for better visuals */
+    body {
+        background-color: #f8f9fa;
+    }
+
+    .card {
+        transition: transform 0.2s;
+    }
+
+        .card:hover {
+            transform: scale(1.02);
+        }
+</style>
+
