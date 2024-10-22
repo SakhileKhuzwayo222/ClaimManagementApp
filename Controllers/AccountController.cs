@@ -27,19 +27,22 @@ namespace ClaimManagementApp.Controllers
                 if (user != null)
                 {
                     // Check the user's role and redirect accordingly
-                    switch (user.RoleID)
+                    switch (user.Role)
                     {
-                        case 1: // Admin
+                    switch (user.Role)
+                    {
+                        case "1": // Admin
                             return RedirectToAction("AdminDashboard", "Dashboard");
-                        case 2: // Academic Manager
+                        case "2": // Academic Manager
                             return RedirectToAction("AcademicManagerDashboard", "Dashboard");
-                        case 3: // Program Coordinator
+                        case "3": // Program Coordinator
                             return RedirectToAction("ProgramCoordinatorDashboard", "Dashboard");
-                        case 4: // Lecturer
+                        case "4": // Lecturer
                             return RedirectToAction("LecturerDashboard", "Dashboard");
                         default:
                             return RedirectToAction("Login", "Account");
                     }
+                        
                 }
                 else
                 {
@@ -131,13 +134,18 @@ namespace ClaimManagementApp.Controllers
         }
 
         // Helper method for user authentication
-        private UserModel AuthenticateUser(string username, string password)
+        private Account AuthenticateUser(string username, string password)
         {
             // Add logic to authenticate the user, such as checking credentials from the database
             // This is a placeholder; replace it with real authentication logic
-            var user = db.Users.FirstOrDefault(u => u.Username == username && u.Password == password);
+            var user = db.Account.FirstOrDefault(u => u.Username == username && u.Password == password);
             return user;
         }
+    }
+    public class LoginViewModel
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
     }
 }
 
