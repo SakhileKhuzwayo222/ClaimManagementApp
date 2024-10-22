@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Web.Mvc;
+using ClaimManagementApp.Data;
 using ClaimManagementApp.Models;
 
 namespace ClaimManagementApp.Controllers
@@ -50,105 +51,133 @@ namespace ClaimManagementApp.Controllers
         // Example methods to retrieve data based on user role
         private int GetTotalClaims(string username)
         {
-            // Logic to fetch total claims for the user
-            return 10; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                // Fetch total claims for the user from the database
+                return dbContext.Claims.Count(c => c.Username == username);
+            }
         }
 
         private int GetPendingTasks(string username)
         {
-            // Logic to fetch pending tasks for the user
-            return 5; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                // Fetch pending tasks for the user
+                return dbContext.Tasks.Count(t => t.Username == username && t.Status == "Pending");
+            }
         }
 
         private List<string> GetNotifications(string username)
         {
-            // Logic to fetch notifications for the user
-            return new List<string> { "Notification 1", "Notification 2" }; // Placeholder values
+            using (var dbContext = new ApplicationDbContext())
+            {
+                // Fetch notifications for the user
+                return dbContext.Notifications
+                                .Where(n => n.Username == username)
+                                .Select(n => n.Message)
+                                .ToList();
+            }
         }
 
         private List<string> GetRecentActivities(string username)
         {
-            // Logic to fetch recent activities for the user
-            return new List<string> { "Activity 1", "Activity 2" }; // Placeholder values
+            using (var dbContext = new ApplicationDbContext())
+            {
+                // Fetch recent activities for the user
+                return dbContext.Activities
+                                .Where(a => a.Username == username)
+                                .OrderByDescending(a => a.Timestamp)
+                                .Take(5)  // Get the latest 5 activities
+                                .Select(a => a.Description)
+                                .ToList();
+            }
         }
 
+        // Admin specific data retrieval
         private int GetTotalUsers()
         {
-            // Logic to get total users for admin
-            return 50; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Users.Count();
+            }
         }
 
         private int GetActiveUsers()
         {
-            // Logic to get active users for admin
-            return 45; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Users.Count(u => u.IsActive);
+            }
         }
 
+        // Academic Manager data retrieval
         private int GetTotalCourses()
         {
-            // Logic to get total courses for academic manager
-            return 20; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Courses.Count();
+            }
         }
 
         private int GetOngoingCourses()
         {
-            // Logic to get ongoing courses for academic manager
-            return 5; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Courses.Count(c => c.Status == "Ongoing");
+            }
         }
 
+        // Program Coordinator data retrieval
         private int GetTotalPrograms()
         {
-            // Logic to get total programs for program coordinator
-            return 10; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Programs.Count();
+            }
         }
 
         private int GetActivePrograms()
         {
-            // Logic to get active programs for program coordinator
-            return 8; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Programs.Count(p => p.IsActive);
+            }
         }
 
+        // Lecturer-specific data retrieval
         private int GetTotalStudents(string lecturerUsername)
         {
-            // Logic to get total students for lecturer
-            return 30; // Placeholder value
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Students.Count(s => s.LecturerUsername == lecturerUsername);
+            }
         }
 
         private List<string> GetUpcomingLectures(string lecturerUsername)
         {
-            // Logic to get upcoming lectures for lecturer
-            return new List<string> { "Lecture 1", "Lecture 2" }; // Placeholder values
+            using (var dbContext = new ApplicationDbContext())
+            {
+                return dbContext.Lectures
+                                .Where(l => l.LecturerUsername == lecturerUsername && l.StartTime > DateTime.Now)
+                                .OrderBy(l => l.StartTime)
+                                .Take(5)  // Get the next 5 lectures
+                                .Select(l => l.Title)
+                                .ToList();
+            }
         }
 
-        // ...
-
+        // Function to retrieve user role
         private string GetUserRole(string username)
         {
-            // Logic to retrieve user role based on username
-            // Replace this with your actual logic to determine the user's role
-            // For example, you can query a database or use a predefined mapping
-            // between usernames and roles
-            if (username == "admin")
+            using (var dbContext = new ApplicationDbContext())
             {
-                return "Admin";
-            }
-            else if (username == "manager")
-            {
-                return "Academic Manager";
-            }
-            else if (username == "coordinator")
-            {
-                return "Program Coordinator";
-            }
-            else if (username == "lecturer")
-            {
-                return "Lecturer";
-            }
-            else
-            {
-                return "Guest";
+                var user = dbContext.Users.FirstOrDefault(u => u.Username == username);
+                if (user != null)
+                {
+                    return user.Role;
+                }
+                return "Guest"; // Default role if user is not found
             }
         }
-    }
-}
+    }}
 

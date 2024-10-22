@@ -13,7 +13,7 @@ namespace ClaimManagementApp.Models
 
         [Required]
         [StringLength(100)]
-        public string Name { get; set; } // Name of the faculty (e.g., "Faculty of Engineering")
+        public string Name { get; set; } // Name of the faculty 
 
         [StringLength(255)]
         public string Description { get; set; } // Optional description of the faculty
